@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 97f74c8fe15064038955f21544224fde
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Personaje
+    21300002: Cabeza
+    21300004: Brazo
+    21300006: AnteBrazo
+    21300008: TroncoSup
+    21300010: TroncoInf
+    21300012: Muslo
+    21300014: Pierna
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 148
+        width: 102
+        height: 102
+      alignment: 9
+      pivot: {x: .5, y: .111503154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 156
+        width: 32
+        height: 95
+      alignment: 9
+      pivot: {x: .482337952, y: .851771176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AnteBrazo
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 160
+        width: 32
+        height: 85
+      alignment: 9
+      pivot: {x: .486753464, y: .822026253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TroncoSup
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 55
+        width: 32
+        height: 78
+      alignment: 9
+      pivot: {x: .477484822, y: .918743432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TroncoInf
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 32
+        height: 78
+      alignment: 9
+      pivot: {x: .512536466, y: .861337781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muslo
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 40
+        width: 32
+        height: 92
+      alignment: 9
+      pivot: {x: .5, y: .878117979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pierna
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 21
+        width: 32
+        height: 110
+      alignment: 9
+      pivot: {x: .487071514, y: .868980706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
